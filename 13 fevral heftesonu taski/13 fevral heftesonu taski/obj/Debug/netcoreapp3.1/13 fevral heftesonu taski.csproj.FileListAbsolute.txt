@@ -1,0 +1,14 @@
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\bin\Debug\netcoreapp3.1\13 fevral heftesonu taski.exe
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\bin\Debug\netcoreapp3.1\13 fevral heftesonu taski.deps.json
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\bin\Debug\netcoreapp3.1\13 fevral heftesonu taski.runtimeconfig.json
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\bin\Debug\netcoreapp3.1\13 fevral heftesonu taski.runtimeconfig.dev.json
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\bin\Debug\netcoreapp3.1\13 fevral heftesonu taski.dll
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\bin\Debug\netcoreapp3.1\13 fevral heftesonu taski.pdb
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\obj\Debug\netcoreapp3.1\13 fevral heftesonu taski.csproj.AssemblyReference.cache
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\obj\Debug\netcoreapp3.1\13 fevral heftesonu taski.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\obj\Debug\netcoreapp3.1\13 fevral heftesonu taski.AssemblyInfoInputs.cache
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\obj\Debug\netcoreapp3.1\13 fevral heftesonu taski.AssemblyInfo.cs
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\obj\Debug\netcoreapp3.1\13 fevral heftesonu taski.csproj.CoreCompileInputs.cache
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\obj\Debug\netcoreapp3.1\13 fevral heftesonu taski.dll
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\obj\Debug\netcoreapp3.1\13 fevral heftesonu taski.pdb
+C:\Users\AdminTM\OneDrive\Desktop\Numan\13 fevral heftesonu taski\13 fevral heftesonu taski\obj\Debug\netcoreapp3.1\13 fevral heftesonu taski.genruntimeconfig.cache
